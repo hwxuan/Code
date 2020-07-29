@@ -1,0 +1,12 @@
+Git简介 done
+时光机穿梭 done
+远程仓库 done
+分支管理
+标签管理 done
+使用Github done
+
+Git玩法-关键步骤：
+1.本地和远程github服务器连接：git remote add origin <server>
+2.从远程仓库克隆：git clone username@host:/path/to/repository
+3.从本地推更新到远程仓库：git push origin master
+4.从远程仓库获取最新的更新：git pull
