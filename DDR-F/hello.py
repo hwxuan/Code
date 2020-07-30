@@ -10,4 +10,3 @@ def move(n, a, b, c):
         move(n - 1, b, a, c)
 
 move(4, 'A', 'B', 'C')
-print(2 ** 14)
